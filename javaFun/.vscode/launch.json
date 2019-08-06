@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BasicsTest",
+            "request": "launch",
+            "mainClass": "Basics.BasicsTest",
+            "projectName": "javaFun_a585ab99"
+        }
+    ]
+}
