@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PuzzleJavaTest",
+            "request": "launch",
+            "mainClass": "PuzzleJava.PuzzleJavaTest",
+            "projectName": "javaFun_a585ab99"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BasicsTest",
             "request": "launch",
             "mainClass": "Basics.BasicsTest",
