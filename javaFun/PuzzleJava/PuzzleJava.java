@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Random;
+
 public class PuzzleJava{
     public ArrayList <Integer> sumAndGreaterThan10(Integer[] arr){
         int sum = 0;
